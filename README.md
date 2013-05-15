@@ -1,7 +1,7 @@
 ledger-gui
 ==========
 
-Web-based frontend for ledger-cli
+Web-based frontend for ledger-cli: http://ledger-cli.org/
 
 Ledger is a command line accounting program for tracking and reporting on income/expenses. It is extremely fast, flexible and powerful.
 
